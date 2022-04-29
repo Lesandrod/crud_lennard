@@ -1,0 +1,47 @@
+@charset "utf-8";
+#form{
+    width: 363px;
+    margin: 0 auto;
+    text-align: center; 
+}
+#form form input {
+    width: 100%;
+    height: 35px;
+}
+.opa{
+    margin: 0;
+    min-height: 100vh;
+    background-image: url(tecsup.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 0.9;
+}
+
+#capa{
+    background-color: rgba(105, 107, 247, 0.329);
+    opacity: 5;
+    height: 70em;
+}
+input{
+   background: rgba(223, 244, 245, 0.671);
+   border:solid #184ad4c0 2px;
+   border-radius: 8px;
+    
+}
+table,td{
+    border:solid #1323ffef 2px;
+    background-color: rgba(85, 192, 241, 0.904);
+    
+    
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 3, 14);
+    text-shadow: 1px  0px 0px rgb(253, 254, 255),
+               0px  1px 0px rgb(255, 255, 255),
+              -1px  0px 0px rgb(255, 255, 255),
+               0px -1px 0px rgb(255, 255, 255);  
+}
